@@ -1,0 +1,26 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "package to run init",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teChreative/taskmaster-pro.git"
+  },
+  "author": "nj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teChreative/taskmaster-pro/issues"
+  },
+  "homepage": "https://github.com/teChreative/taskmaster-pro#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.29.1",
+    "@typescript-eslint/parser": "^4.29.1",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.24.0"
+  }
+}
